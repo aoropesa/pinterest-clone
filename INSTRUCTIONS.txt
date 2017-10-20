@@ -1,0 +1,17 @@
+This challenge is to make a pinterest card clone.
+
+See image pinterest clone.png
+
+I have provided you with the CSS, images and starter files. I have also provided you with the data to make 3 cards.
+The data reuses the same images which is fine for this exercise. Your challenge is to implement the list of image cards (3).
+Please implement propTypes for your components. You are free to make any changes you wish to the CSS or data, but the provided
+CSS and data work just fine for this challenge.
+
+HINT: The board consists of nothing more than a list of cards. For the sake of this challenge, do not make it more complex than that.
+
+If you are up for it, implement the header too. Consider reusing the Nav component we built earlier in the class.
+This is not required for the quiz, but it provides additional practice if you so want to tackle it. Please don't get too involved
+with this as we have a lot of ground to cover today. Complete the challenge to make the 3 cards, and if you don't have enough time
+for the header, you can take this home and work on it for your own practice. 
+
+Good Luck!!
